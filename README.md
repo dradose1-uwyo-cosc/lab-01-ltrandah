@@ -1,4 +1,4 @@
-Username: ltrandah
+# Username: ltrandah
 
 # :wave: The Basics of GitHub 
 
